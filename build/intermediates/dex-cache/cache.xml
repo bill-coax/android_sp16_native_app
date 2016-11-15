@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\internal\android_sp16_native_app\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\internal\android_sp16_native_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_067b31e94fdcd7a1d669721e929750133e38f9de\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\internal\android_sp16_native_app\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\internal\android_sp16_native_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_ceb3cfd52b8276d525a16b8560e9add1e36eeb6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\internal\android_sp16_native_app\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="507b4a16e0167cabd255a1ba70e5469ef845e4a2">
+        <dex dex="C:\internal\android_sp16_native_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_190cb133c93480bfcc5dc67b5639c09d956000f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\internal\android_sp16_native_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_3f77e93e5ed0a0d7276beffe8309c2818d2dc483\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\internal\android_sp16_native_app\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="73ef88d0e67c432c2e36450a6120fb5f9333c049">
+        <dex dex="C:\internal\android_sp16_native_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_90d5b6c985724d03aee314e8e5e2c99919ffd1fd\classes.dex" />
+    </item>
+
+</items>

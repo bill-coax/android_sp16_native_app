@@ -1,3 +1,8 @@
+# Coax's Basic SP16 App
+
+We have added modbus support and several components for reading out versions and extra data.
+
+The original notes are from nordic.
 # Android-nRF-UART
 
 nRF UART app can be used to connect to Bluetooth® Smart devices running a custom Nordic Semiconductor UART service. When connected, the app can send and receive ASCII and UTF-8 text strings. 
